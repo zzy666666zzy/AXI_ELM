@@ -11,7 +11,7 @@
 
 `define ROM_bitwidth 12
 
-`define numWeightLayer1 64
+`define numWeightLayer1 128
 `define numNeuronLayer1 50
 
 `define numWeightLayer2 50
